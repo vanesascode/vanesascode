@@ -10,7 +10,7 @@ So, I am currently studying hard many languages and tools in order to be able to
 
 ### What will you `FIND` here?
 
-Well, I am uploading all my practice projects with lots of notes. 🤔 Maybe they are useful for you too if you are also a student? 
+Well, I am uploading all my practice projects with LOTS of notes in the code and/or readme.md. 🤔 Maybe they are useful for you too if you are also a student? 
 
 HAVE A LOOK! 👇👇👇
 
