@@ -12,7 +12,7 @@ So, I am currently studying hard many languages and tools in order to be able to
 
 Well, I am uploading all my practice projects with LOTS of notes in the code and/or readme.md. 🤔 Maybe they are useful for you too if you are also a student? 
 
-👉👉👉 [CLICK HERE TO HAVE A LOOK!](https://github.com/vanesascode?tab=repositories) 
+👉 Click on the repositories and have a look! 👀
 
 
  
