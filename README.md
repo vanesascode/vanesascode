@@ -56,9 +56,9 @@ I'm also enrolled at [4GeeksAcademy](https://github.com/4GeeksAcademy)'s full st
 ###
 ***
 ###
-## What will you `FIND` here?
+## Here you will find lots of `code and useful notes` of my studying process.
 
-Well, I am uploading all my practice projects with LOTS of notes in the code and/or readme.md. 🤔 Maybe they are useful for you too if you are also a student? 
+I am uploading all my practice projects with LOTS of notes in the code and/or readme.md. 🤔 Maybe they are useful for you too if you are also a student? 
 
 👉 Click on the repositories and have a look! 👀
 
