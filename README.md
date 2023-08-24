@@ -13,7 +13,7 @@ My previous experience combines teaching, music technology, and communication. Y
 ###
 
 
-So, I am currently studying hard many languages and tools in order to be able to build great websites: 
+So, I am currently studying hard many languages and tools in order to be able to build great apps: 
 ###
 ###
 
