@@ -1,10 +1,8 @@
 # Hi there 👋 I'm vanesascode!
 
-My previous experience combines teaching, music technology, and communication. You can learn more about me in [LINKEDIN](https://www.linkedin.com/in/vanesajuarezparis/) 
+## I am a highly enthusiastic `certified junior full stack developer`. My background combines teaching, music technology , and communication, allowing me to bring a unique perspective to programming. You can learn more about me in [LINKEDIN](https://www.linkedin.com/in/vanesajuarezparis/) 
 
-######
-
-## Now I am busy becoming a `Full Stack Developer`
+###
 
 <div align="left">
   <img height="200" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"  />
@@ -13,7 +11,7 @@ My previous experience combines teaching, music technology, and communication. Y
 ###
 
 
-So, I am currently studying hard many languages and tools in order to be able to build great apps: 
+## Technologies I use: 
 ###
 ###
 
@@ -68,14 +66,12 @@ So, I am currently studying hard many languages and tools in order to be able to
 
 ###
 
-I'm also enrolled at [4GeeksAcademy](https://github.com/4GeeksAcademy)'s full stack Bootcamp. 
+I'm part of [4GeeksAcademy](https://github.com/4GeeksAcademy)'s community. 
 
 ###
 ***
 ###
-## Here you will find lots of `code and useful notes` of my studying process.
-
-I am uploading all my practice projects with LOTS of notes in the code and/or readme.md. 🤔 Maybe they are useful for you too if you are also a student? 
+## In this Github you will find my `projects` and lots of `notes` of my continuous learning.
 
 👉 Click on the repositories and have a look! 👀
 
