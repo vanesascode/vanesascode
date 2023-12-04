@@ -1,6 +1,6 @@
 # Hi there 👋 I'm vanesascode!
 
-## I am a highly enthusiastic `certified full stack developer`. My background combines teaching, music technology , and communication, allowing me to bring a unique perspective to programming:
+## I am a highly enthusiastic certified `full stack developer`. My background combines teaching, music technology , and communication, allowing me to bring a unique perspective to programming:
 - You can learn more about me in [LINKEDIN](https://www.linkedin.com/in/vanesajuarezparis/)
 - You can also visit my [PORTFOLIO](https://vanesascode.com/)
 - You can contact me: vanesascode@gmail.com
