@@ -1,11 +1,10 @@
-# Hi there 👋 I'm vanesascode!
+ <img src="https://i.postimg.cc/Nf0krK9w/Github-banner.jpg" width="100%" alt="javascript logo"  />
 
-## I am a passionate `full stack developer`, coding all day long! 
 ***
 
-<div align="left">
-  <img height="200" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"  />
-</div>
+I am a full stack developer based in the Spanish Pyrenees. When I'm not coding or exploring new technologies, you can often find me taking a walk in the mountains with my dog Walter.
+
+In addition to my programming skills, I have a background in teaching, music technology, and customer service. I bring a unique blend of technology and creativity to the projects I build. I am self-taught and independent, but I also excel at communication and collaboration within productive teams. I have experience applying agile methodologies and working remotely.
 
 ***
 
