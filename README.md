@@ -14,11 +14,9 @@ In addition to my programming skills, I have a background in teaching, music tec
 #### 📄  I always keep clear and well-formated `documentation and commits` descriptions for my proyects, so that anyone joining the project can quickly understand everything in it. Now I am using [Conventional Commits](https://www.conventionalcommits.org)
 #### 🧪  `Testing` allows me to deliver high-quality software that not only meets functional requirements but also provides a seamless and satisfying user experience. I use Jest (unit testing) and Playwright (E2E)
 
-***
 
-- You can learn more about me in [LINKEDIN](https://www.linkedin.com/in/vanesajuarezparis/)
-- You can also visit my [PORTFOLIO](https://vanesascode.com/)
-- You can contact me: vanesascode@gmail.com
+
+
 
 ***
 
@@ -111,8 +109,10 @@ In addition to my programming skills, I have a background in teaching, music tec
 
 ###
 ***
-
-I'm part of [4GeeksAcademy](https://github.com/4GeeksAcademy)'s community. 
+- You can learn more about me in [LINKEDIN](https://www.linkedin.com/in/vanesajuarezparis/)
+- You can also visit my [PORTFOLIO](https://vanesascode.com/)
+- You can contact me: vanesascode@gmail.com
+- I'm part of [4GeeksAcademy](https://github.com/4GeeksAcademy)'s community. 
 
 
 
