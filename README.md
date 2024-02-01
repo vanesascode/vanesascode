@@ -5,14 +5,14 @@ I am a full stack developer based in the Spanish Pyrenees. When I'm not coding o
 
 In addition to my programming skills, I have a background in teaching, music technology, and customer service. I bring a unique blend of technology and creativity to the projects I build. 
 
-I am self-taught and independent, but I also excel at communication and collaboration within productive teams. I have experience applying agile methodologies and working remotely.
+
 
 ***
-
-#### ✨ I love writing `clean code`. I use Eslint and Prettier and I am always keeping my code as simple, readable, consistent and scalable as possible.
-#### 🙋🏼‍♀️ When I create, I always prioritize the `user experience`, ensuring that the code I write meets the needs and expectations of the end users. 
-#### 📄 I always keep clear and well-formated `documentation and commits` descriptions for my proyects, so that anyone joining the project can quickly understand everything in it. Now I am using [Conventional Commits](https://www.conventionalcommits.org)
-#### 🧪 `Testing` allows me to deliver high-quality software that not only meets functional requirements but also provides a seamless and satisfying user experience. I use Jest (unit testing) and Playwright (E2E)
+#### 💻  I am self-taught and independent, but I also excel at communication and collaboration within productive teams. I have experience applying `agile methodologies` and working remotely.
+#### ✨  I love writing `clean code`. I use Eslint and Prettier and I am always keeping my code as simple, readable, consistent and scalable as possible.
+#### 🙋🏼‍♀️  When I create, I always prioritize the `user experience`, ensuring that the code I write meets the needs and expectations of the end users. 
+#### 📄  I always keep clear and well-formated `documentation and commits` descriptions for my proyects, so that anyone joining the project can quickly understand everything in it. Now I am using [Conventional Commits](https://www.conventionalcommits.org)
+#### 🧪  `Testing` allows me to deliver high-quality software that not only meets functional requirements but also provides a seamless and satisfying user experience. I use Jest (unit testing) and Playwright (E2E)
 
 ***
 
