@@ -1,6 +1,5 @@
  <img src="https://i.postimg.cc/Nf0krK9w/Github-banner.jpg" width="100%" alt="javascript logo"  />
 
-***
 
 I am a full stack developer based in the Spanish Pyrenees. When I'm not coding or exploring new technologies, you can often find me taking a walk in the mountains with my dog Walter.
 
