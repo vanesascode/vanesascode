@@ -114,7 +114,10 @@ In addition to my programming skills, I have a background in teaching, music tec
 - You can contact me: vanesascode@gmail.com
 - I'm part of [4GeeksAcademy](https://github.com/4GeeksAcademy)'s community. 
 
+***
 
-
+```
+"In today's digital landscape, full stack developers drive innovation by crafting robust back-end systems and intuitive front-end interfaces. Their holistic approach ensures every touch-point contributes to a user-centric framework, shaping meaningful interactions and driving the evolution of the digital world."
+```
 
  
