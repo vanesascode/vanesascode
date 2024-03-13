@@ -105,10 +105,6 @@ In addition to my programming skills, I have a background in teaching, music tec
 
 ###
 ***
-- You can learn more about me in [LINKEDIN](https://www.linkedin.com/in/vanesajuarezparis/)
-- You can also visit my [PORTFOLIO](https://vanesascode.com/)
-- You can contact me: vanesascode@gmail.com
-- I'm part of [4GeeksAcademy](https://github.com/4GeeksAcademy)'s community. 
 
 ***
 
