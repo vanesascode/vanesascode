@@ -1,9 +1,13 @@
- <img src="https://i.postimg.cc/t45F2P1T/Github-banner.jpg" width="100%" alt="javascript logo"  />
+ <img src="https://i.postimg.cc/HstpBPpk/Linked-In-cover.jpg" width="100%" alt="javascript logo"  />
 
 
-I am a full stack developer based in the Spanish Pyrenees. When I'm not coding or exploring new technologies, you can often find me taking a walk in the mountains with my dog Walter.
+I am a full stack developer and UX designer dedicated to solving real-life problems using programming. I focus on quality code, accessibility and agile teamwork.
 
-In addition to my programming skills, I have a background in teaching, music technology, and customer service. I bring a unique blend of technology and creativity to the projects I build. 
+I'm based in the Spanish Pyrenees. When I'm not coding or exploring new technologies, you can often find me taking a walk in the mountains with my dog Walter.
+
+In addition to my programming skills, I have a background in teaching, music technology, and customer service. I bring a unique blend of technology and creativity to the projects I build.
+
+I am self-taught and independent, but I also excel at communication and collaboration within productive teams. I have experience applying agile methodologies and working remotely.
 
 
 
