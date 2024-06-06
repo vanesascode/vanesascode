@@ -1,13 +1,11 @@
  <img src="https://i.postimg.cc/Njdg30hk/Linked-In-cover-2.jpg" width="100%" alt="javascript logo"  />
 
 
-I am a Frontend developer and UX designer dedicated to solving real-life problems using programming. I focus on quality code, accessibility and agile teamwork.
+I am a Frontend Developer with Backend and UX design strong knowledge, dedicated to solving real-life problems using programming. I am a self-taught and independent developer, but I also possess a strong ability to communicate effectively. I focus on quality code, accessibility and agile teamwork.
 
-I'm based in the Spanish Pyrenees. When I'm not coding or exploring new technologies, you can often find me taking a walk in the mountains with my dog Walter.
+I'm based in the Spanish Pyrenees. 🌳 In this beautiful rural place, I find the perfect quiet work environment without distractions. Working remotely in a place like this is the key to efficiency, focus and productivity. 
 
-In addition to my programming skills, I have a background in teaching, music technology, and customer service. I bring a unique blend of technology and creativity to the projects I build.
-
-I am self-taught and independent, but I also excel at communication and collaboration within productive teams. I have experience applying agile methodologies and working remotely.
+In addition to my programming skills, I have a background in teaching, music technology, marketing and social media. I bring a unique blend of technology and creativity to the projects I build.
 
 
 ***
