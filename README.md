@@ -1,7 +1,4 @@
- <img src="https://i.postimg.cc/Njdg30hk/Linked-In-cover-2.jpg" width="100%" alt="javascript logo"  />
-
-
-I am a Frontend Developer with Backend and UX design strong knowledge, dedicated to solving real-life problems using programming. I am a self-taught and independent developer, but I also possess a strong ability to communicate effectively. I focus on quality code, accessibility and agile teamwork.
+I am a `FRONTEND DEVELOPER` with Backend and UX design strong knowledge, dedicated to solving real-life problems using programming. I am a self-taught and independent developer, but I also possess a strong ability to communicate effectively. I focus on quality code, accessibility and agile teamwork.
 
 I'm based in the Spanish Pyrenees. 🌳 In this beautiful rural place, I find the perfect quiet work environment without distractions. Working remotely in a place like this is the key to efficiency, focus and productivity. 
 
@@ -14,7 +11,6 @@ In addition to my programming skills, I have a background in teaching, music tec
 
 ***
 
-My favourite technologies:
 
 
 <div align="left">
@@ -46,8 +42,6 @@ My favourite technologies:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -69,6 +63,17 @@ My favourite technologies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+
+
+###
 </div>
 
 
