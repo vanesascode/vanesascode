@@ -1,15 +1,15 @@
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEZuQbhoJhiHg/profile-displaybackgroundimage-shrink_350_1400/B4DZXpB1NmHIAY-/0/1743371327504?e=1749081600&v=beta&t=8KAUkCDel3NJ6uiTY3_gfzVNRJI5xoan0Nl-0HBEArs"  alt="typescript logo"  />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGyDg1-CBgYVg/profile-displaybackgroundimage-shrink_350_1400/B4DZbUXpedG0AY-/0/1747319691758?e=1752710400&v=beta&t=KYPUmkM6S_ZDW6W7nloUdp5yPHBdnLaNZXDEXvY41Hc"  alt="typescript logo"  />
   
 ### Hola, me llamo Vanesa Juarez Paris y soy: 
-## `UI/UX Designer y Frontend Developer`
-### Me obsesiona el detalle y estoy especializada en la creación de interfaces tipo dashboards, sistemas de gestión, etc. 
+## `UI/UX Designer y Software Engineer`
+### Me obsesiona el detalle y estoy especializada en la creación de interfaces tipo dashboards, sistemas de gestión, etc. También integro IA en los proyectos. 
   <img src="https://portfolio-2025-olive-three.vercel.app/_nuxt/mock1.DOVd0Q3h.gif"  alt="nextjs logo"  />
   
 ### Mis herramientas preferidas con las cuales tengo extensa experiencia son:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" alt="figma logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+<!--     <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  /> -->
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
   <img width="12" />
@@ -26,6 +26,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+    <img src="https://azure.microsoft.com/svghandler/ai-studio/?width=600&height=315" height="70"  alt="nextjs logo"  />
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="80"  alt="nextjs logo"  />
   </div>
 
 
