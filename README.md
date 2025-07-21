@@ -36,7 +36,7 @@
 
 ###
   
-### Soy autónoma y estoy abierta a nuevos proyectos 👉 contáctame si te interesa y hablamos: vanesa.juarez.paris@gmail.com  
+### Estoy abierta a nuevos proyectos 👉 contáctame si te interesa y hablamos: vanesa.juarez.paris@gmail.com  
 ### Conmigo ahorras **tiempo y dinero** al tener dos profesionales en uno (diseñadora y desarrolladora) haciendo desde la creación de:
 ### `Interfaces`
 * funcionales para el usuario
