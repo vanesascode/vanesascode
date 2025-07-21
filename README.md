@@ -1,7 +1,6 @@
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGyDg1-CBgYVg/profile-displaybackgroundimage-shrink_350_1400/B4DZbUXpedG0AY-/0/1747319691758?e=1752710400&v=beta&t=KYPUmkM6S_ZDW6W7nloUdp5yPHBdnLaNZXDEXvY41Hc"  alt="typescript logo"  />
-  
+ 
 ### Hola, me llamo Vanesa Juarez Paris y soy: 
-## `UI/UX Designer y Software Engineer`
+## `Software Engineer y UI/UX Designer`
 ### Me obsesiona el detalle y estoy especializada en la creación de interfaces tipo dashboards, sistemas de gestión, etc. También integro IA en los proyectos. 
   <img src="https://portfolio-2025-olive-three.vercel.app/_nuxt/mock1.DOVd0Q3h.gif"  alt="nextjs logo"  />
   
