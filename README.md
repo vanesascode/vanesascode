@@ -1,7 +1,7 @@
  
 ### Hola, me llamo Vanesa Juarez Paris y soy: 
-## `Software Engineer y UI/UX Designer`
-### Me obsesiona el detalle y estoy especializada en la creación de interfaces tipo dashboards, sistemas de gestión, etc. También integro IA en los proyectos. 
+## `Full Stack Developer & UI/UX Designer`
+### Desarrolladora con experiencia en el ciclo completo de desarrollo de software. Obsesionada con el detalle y la calidad del código, me especializo en crear aplicaciones empresariales usando tecnologías modernas como React, Vue, y FastAPI, siempre enfocada en la experiencia de usuario, la escalabilidad y la performance.
   <img src="https://portfolio-2025-olive-three.vercel.app/_nuxt/mock1.DOVd0Q3h.gif"  alt="nextjs logo"  />
   
 
@@ -45,20 +45,7 @@
 ###
 
 ###
-  
-### Estoy abierta a nuevos proyectos 👉 contáctame si te interesa y hablamos: vanesa.juarez.paris@gmail.com  
-### Conmigo ahorras **tiempo y dinero** al tener dos profesionales en uno (diseñadora y desarrolladora) haciendo desde la creación de:
-### `Interfaces`
-* funcionales para el usuario
-* rentables para tu negocio
-* atractivas
-* responsive
-### hasta la implementación de: 
-### `Código` 
-* limpio
-* eficiente
-* mantenible
-* escalable
+
 
 
 
