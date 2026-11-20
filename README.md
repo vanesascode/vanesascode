@@ -1,7 +1,7 @@
  
-### Hola, me llamo Vanesa Juarez Paris y soy: 
+### Hi, I'm Vanesa Juarez Paris and I'm: 
 ## `Full Stack Developer & UI/UX Designer`
-### Desarrolladora con experiencia en el ciclo completo de desarrollo de software. Obsesionada con el detalle y la calidad del código, me especializo en crear aplicaciones empresariales usando tecnologías modernas como React, Vue, y FastAPI, siempre enfocada en la experiencia de usuario, la escalabilidad y la performance.
+### Full stack developer who understands the business before writing a line of code. Extensive experience across the full software development lifecycle and in building enterprise applications. Skilled in agile methodologies and AI-accelerated development workflows (Claude Code, parallel agents), combining technical rigor, speed of execution and a strong focus on user experience.
   <img width="1433" height="896" alt="Image" src="https://github.com/user-attachments/assets/63c30d56-e05a-4a07-b41d-6c1140f2774c" />
   
 
